@@ -8,5 +8,5 @@ engine.setProperty('voice',voices[0].id)
 def speak(audio):
     engine.say(audio)
     engine.runAndWait()
-    if __name__=="__main__":
-      speak("gaurab is a good boy")
+if __name__=="__main__":
+    speak("gaurab is a good boy")
