@@ -8,7 +8,7 @@ print ("\n List of numbers:")
 print (List)
 
 #creating a list of strings and accessing
-List=["gaurab","rayamajhi","kathmandu"]
+List=["gauraV","raM","kathmandu"]
 print("\nlistitems:")
 print(List)
 print(List[0])#accessing element
